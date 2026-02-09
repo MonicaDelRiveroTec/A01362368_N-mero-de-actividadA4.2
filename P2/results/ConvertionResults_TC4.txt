@@ -1,0 +1,56 @@
+======================================================================
+NUMBER BASE CONVERSION RESULTS
+======================================================================
+
+Decimal:             -39 | Binary: 11111111111111111111111111011001 | Hexadecimal:        FFFFFFD9
+Decimal:             -36 | Binary: 11111111111111111111111111011100 | Hexadecimal:        FFFFFFDC
+Decimal:               8 | Binary:                 1000 | Hexadecimal:               8
+Decimal:              34 | Binary:               100010 | Hexadecimal:              22
+Decimal:              17 | Binary:                10001 | Hexadecimal:              11
+Decimal:              49 | Binary:               110001 | Hexadecimal:              31
+Decimal:               5 | Binary:                  101 | Hexadecimal:               5
+Decimal:               0 | Binary:                    0 | Hexadecimal:               0
+Decimal:              33 | Binary:               100001 | Hexadecimal:              21
+Decimal:              12 | Binary:                 1100 | Hexadecimal:               C
+Decimal:              -6 | Binary: 11111111111111111111111111111010 | Hexadecimal:        FFFFFFFA
+Decimal:              27 | Binary:                11011 | Hexadecimal:              1B
+Decimal:              -4 | Binary: 11111111111111111111111111111100 | Hexadecimal:        FFFFFFFC
+Decimal:             -38 | Binary: 11111111111111111111111111011010 | Hexadecimal:        FFFFFFDA
+Decimal:              26 | Binary:                11010 | Hexadecimal:              1A
+Decimal:              49 | Binary:               110001 | Hexadecimal:              31
+Decimal:              29 | Binary:                11101 | Hexadecimal:              1D
+Decimal:              42 | Binary:               101010 | Hexadecimal:              2A
+Decimal:             -16 | Binary: 11111111111111111111111111110000 | Hexadecimal:        FFFFFFF0
+Decimal:              34 | Binary:               100010 | Hexadecimal:              22
+Decimal:              20 | Binary:                10100 | Hexadecimal:              14
+Decimal:               0 | Binary:                    0 | Hexadecimal:               0
+Decimal:              25 | Binary:                11001 | Hexadecimal:              19
+Decimal:              45 | Binary:               101101 | Hexadecimal:              2D
+Decimal:               3 | Binary:                   11 | Hexadecimal:               3
+Decimal:             -46 | Binary: 11111111111111111111111111010010 | Hexadecimal:        FFFFFFD2
+Decimal:             -46 | Binary: 11111111111111111111111111010010 | Hexadecimal:        FFFFFFD2
+Decimal:              29 | Binary:                11101 | Hexadecimal:              1D
+Decimal:              33 | Binary:               100001 | Hexadecimal:              21
+Decimal:              29 | Binary:                11101 | Hexadecimal:              1D
+Decimal:              26 | Binary:                11010 | Hexadecimal:              1A
+Decimal:              -5 | Binary: 11111111111111111111111111111011 | Hexadecimal:        FFFFFFFB
+Decimal:             -36 | Binary: 11111111111111111111111111011100 | Hexadecimal:        FFFFFFDC
+Decimal:              12 | Binary:                 1100 | Hexadecimal:               C
+Decimal:              45 | Binary:               101101 | Hexadecimal:              2D
+Decimal:             -50 | Binary: 11111111111111111111111111001110 | Hexadecimal:        FFFFFFCE
+Decimal:               0 | Binary:                    0 | Hexadecimal:               0
+Decimal:              -6 | Binary: 11111111111111111111111111111010 | Hexadecimal:        FFFFFFFA
+
+======================================================================
+STATISTICS
+======================================================================
+Total items processed: 38
+Total errors: 3
+Execution time: 0.001512 seconds
+======================================================================
+
+ERRORS ENCOUNTERED:
+----------------------------------------------------------------------
+Line 8: Invalid number format: 'ABC'
+Line 21: Invalid number format: 'ERR'
+Line 41: Invalid number format: 'VAL'
